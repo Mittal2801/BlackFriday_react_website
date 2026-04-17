@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+
+.font-kaushan{
+    font-family: "Kaushan Script", cursive;
+}
+.font-league-gothic{
+      font-family: "League Gothic", sans-serif;
+}
+.main_img{
+    position: absolute;
+    
+}
+.next_img{
+    position: relative;
+    top: 33%;
+    right: 30%;
+}
+.line-through{
+    text-decoration: line-through;
+}
+.slide{
+    background-image: url(https://websitedemos.net/black-friday-04/wp-content/uploads/sites/1419/2023/11/testimonials.jpg);
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+.line {
+    text-decoration: line-through;
+}
+.about-img{
+    background-image: url(https://websitedemos.net/black-friday-04/wp-content/uploads/sites/1419/2023/11/about-02.jpg);
+    height: 350px;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+.pro_img {
+    position: absolute;
+    width: 250px;
+}
+.pro_percentage {
+    position: relative;
+    top: -100%;
+}
+.pro_cart {
+    position: relative;
+    
+}
